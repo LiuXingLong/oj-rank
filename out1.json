@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "hdu": [
+        "TangX", 
+        "HNUST_TangX"
+      ], 
+      "name": "唐新", 
+      "bestcoder": [
+        "TangX", 
+        "HNUST_TangX"
+      ], 
+      "cf": [
+        "HNUST_TangX"
+      ], 
+      "other": [
+        "TangX"
+      ], 
+      "poj": [
+        "TangX"
+      ], 
+      "bnuoj": [
+        "TangX"
+      ], 
+      "hn": [
+        "1405020205"
+      ], 
+      "score": {
+        "hdu": [
+          {
+            "score": 3, 
+            "name": "TangX"
+          }
+        ], 
+        "bestcoder": [
+          {
+            "score": 1492, 
+            "name": "TangX"
+          }, 
+          {
+            "score": 1440, 
+            "name": "HNUST_TangX"
+          }
+        ], 
+        "cf": [
+          {
+            "score": 1265, 
+            "name": "HNUST_TangX"
+          }
+        ], 
+        "bnu": [
+          {
+            "score": 13, 
+            "name": "TangX"
+          }
+        ], 
+        "poj": [], 
+        "hn": [
+          {
+            "score": 4, 
+            "name": "1405020205"
+          }
+        ], 
+        "acdream": [], 
+        "codechef": []
+      }, 
+      "id": "1405020205", 
+      "acdream": [
+        "TangX"
+      ]
+    }
+  ], 
+  "time": "Oct-26-16 03:55:11"
+}
